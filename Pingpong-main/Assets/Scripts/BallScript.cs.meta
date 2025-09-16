@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d50c6987415c5d841ad018b766cc5ec0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PingAndPong: {fileID: 11400000, guid: add50c26b21b4eb43863abc6c0cd32bc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

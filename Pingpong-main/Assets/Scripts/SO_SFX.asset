@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f2e0cc9450ccbe43b9264e402f9bbec, type: 3}
+  m_Name: SO_SFX
+  m_EditorClassIdentifier: 
+  HitSFX:
+  - {fileID: 8300000, guid: c9b8120872aa41a4ea598b35b09aa02e, type: 3}
+  - {fileID: 8300000, guid: 1fba5b207660b7a4d88aaa88e6016224, type: 3}
+  - {fileID: 8300000, guid: bc7f4ed6607c74d44b53a6ec9221936a, type: 3}
+  - {fileID: 8300000, guid: 1046b50c3fbe43c4985a5269525dc59e, type: 3}
+  - {fileID: 8300000, guid: db00575f0578dc549a3c028b72dd3e65, type: 3}
+  BounceSFX:
+  - {fileID: 8300000, guid: 09ea0e1a2f6bff8468bc63af1c1dc936, type: 3}
+  - {fileID: 8300000, guid: 108dc0d241072ee47a63a6eb41a05d9e, type: 3}
+  - {fileID: 8300000, guid: 8f10b7898e2de544c97bde2ebfa7e7d8, type: 3}
+  - {fileID: 8300000, guid: 9e09bee857fe41e4280077e3524c28df, type: 3}
+  - {fileID: 8300000, guid: 75e0fa8dd73fb564d9e85c5cb9ebdd93, type: 3}
